@@ -20,7 +20,7 @@ resources:
 variables:
   detail:
     framesPerSecond:
-      visualDisplay: images/performance/performance2.webm
+      visualDisplay: videos/performance/performance2.webm
 ---
 
 Performance is an integral part of a user's experience no matter the medium that interface takes. Web delivered interfaces, native interfaces, application programming interfaces; whenever a user interacts with a product, performance always needs to be a top concern. Slow performing interfaces have been shown to [cost money and conversions](http://www.fastcompany.com/1825005/how-one-second-could-cost-amazon-16-billion-sales) and [affect a company's bottom line](https://blog.kissmetrics.com/loading-time/). More than that, performance is about respecting our users and the way humans perceive and react to the world around them.
